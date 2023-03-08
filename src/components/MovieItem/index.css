@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.movie-cont {
+  margin: 0px;
+}
+.popup-content {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.close-cont {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-top: 0px;
+  padding-right: 10px;
+  border: 0px solid white;
+}
+.button {
+  background-color: transparent;
+  border: 0px solid transparent;
+}
+.pop-cont {
+  padding: 30px;
+}
